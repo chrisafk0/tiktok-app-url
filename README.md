@@ -2,6 +2,8 @@
 
 A simple, effective landing page designed specifically for TikTok bio links to promote mobile apps.
 
+![Example](example.png)
+
 ## Features
 
 - Clean, mobile-friendly design with centered app icon and title
